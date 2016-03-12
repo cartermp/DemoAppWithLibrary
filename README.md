@@ -1,5 +1,7 @@
 # DemoAppWithLibrary
 
+**Note:** Specfic things here may change as we get closer to release
+
 A demo app with a library that it depends on.
 
 To restore packages, run ```$ dotnet restore``` at the root level (you can also do this at each project level).
